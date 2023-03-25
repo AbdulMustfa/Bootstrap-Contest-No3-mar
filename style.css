@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+.form-select.dropdown-hedding-border {
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-radius: 0px !important;
+}
+.table.justify-content-evenly.table-responsive {
+  overflow-x: scroll;
+}
